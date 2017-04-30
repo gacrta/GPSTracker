@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">GpsTracker</string>
+    <string name="latitudeStr">Latitude: </string>
+    <string name="longitudeStr">Longitude: </string>
+    <string name="lastUpdateStr">Last update: </string>
+    <string name="getGps">Get Position</string>
+</resources>
